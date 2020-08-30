@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df27a811-a37c-4699-84c5-226e1f0dd2bf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/run_webcam.py" beforeDir="false" afterPath="$PROJECT_DIR$/run_webcam.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gcxgfjpxO1SNX6j5xIqff9q8Mi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../realtime_segmenation" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df27a811-a37c-4699-84c5-226e1f0dd2bf" name="Default Changelist" comment="" />
+      <created>1598427794151</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598427794151</updated>
+      <workItem from="1598427795836" duration="1930000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-760" y="695" key="FileChooserDialogImpl" timestamp="1598440222286">
+      <screen x="-1080" y="0" width="1080" height="1880" />
+    </state>
+    <state x="-760" y="695" key="FileChooserDialogImpl/0.0.1536.824/-1080.0.1080.1880@-1080.0.1080.1880" timestamp="1598440222286" />
+  </component>
+</project>
